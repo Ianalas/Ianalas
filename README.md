@@ -48,8 +48,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ianalas&theme=dracula&show_icons=true" />
+<a href="https://github.com/Ianalas" title="Perfil do Ian Alas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ianalas&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianalas&layout=compact&langs_count=16&theme=dark&show_icons=true" />
 </a>
 
 ## Onde me encontrar
