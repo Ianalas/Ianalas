@@ -1,28 +1,11 @@
-## Hi there 👋
-
-<!--
-**Ianalas/Ianalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![](https://komarev.com/ghpvc/?username=Ianalas&color=006bed)
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análide e Desenvolvimento de Sistema na Universidade de Fortaleza.
 - 💼 Procura primeira oportunidade.
-- 🌱 Aprendendo mais sobre React, Node.js e Frameworks.
+- 🧮 Aprendendo mais sobre React, Node.js e Frameworks.
 
 ## Minhas Skills
 
