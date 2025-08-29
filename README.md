@@ -3,9 +3,9 @@
 
 ## Sobre mim
 
-- 🎓 Estudando Análide e Desenvolvimento de Sistema na Universidade de Fortaleza.
-- 💼 Procura primeira oportunidade.
-- 🧮 Aprendendo mais sobre React, Node.js e Frameworks.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💼 Engenheiro de Software na Dr.Laudos
+- 🧮 O que mais gosto em tecnologia é a sua diversidade e os vários caminhos para se atingir o mesmo resultado com excelência.
 
 ## Minhas Skills
 
@@ -17,6 +17,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 
 
 **DevOps**
